@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"><h1 style= "font-family: 'Times New Roman', Times, serif;"
+    <title>TRABALHO SOBRE VIAGENS E ENETRETENIMETNO</title></head>
+<body>
+    <div class="TRABALHO">
+        <h2 style= "color :green;"> MEU ENTRETENIMENTO</h2>
+        <p>UMA DAS COISAS QUE EU MAIS GOSTO DE FAZER É IR EM ESTÁDIOS DE FUTEBOL VER MEU TIME JOGAR</p>
+        </div> 
+<img src="estadio.jpg" alt="escudo">
+<h1 style= "color :green;">MINHA VIAGEM</h1>
+<p>
+ <strong>viagem</strong> Essa foi uma viagem que eu fiz para ubatuba com a minha namorada
+ e minha irmâ e meu cunhado.
+</p>
+<figure>
+<img src="viagem.jpg"
+alt="MEU TRABALHO">

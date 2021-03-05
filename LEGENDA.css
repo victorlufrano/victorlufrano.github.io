@@ -1,0 +1,11 @@
+.textoimg2{
+    margin-top: 10px;
+    
+}
+   
+.imagem2{
+    margin-top: 100px;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+}
